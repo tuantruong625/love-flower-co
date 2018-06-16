@@ -1,7 +1,7 @@
 <template>
      <div class="navbar-container">
         <div class="navbar-logo">
-            <!-- <span><img class="navbar-image" src="@/assets/img/logo.png" alt=""></span> -->
+            <span><img class="navbar-image" src="@/assets/heart-grey.png" alt=""></span>
         </div>
         <div class="navbar-links">
             <span class="navbar-links"><router-link :to="{ path: 'Index' }">home</router-link></span>
