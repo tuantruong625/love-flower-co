@@ -7,7 +7,7 @@
             <span class="navbar-links"><router-link :to="{ path: 'Index' }">home</router-link></span>
             <span class="navbar-links"><router-link :to="{ path: 'About' }">about</router-link></span>
             <span class="navbar-links"><a href="#">work</a></span>
-            <span class="navbar-links"><a href="#">contact</a></span>
+            <span class="navbar-links"><router-link :to="{ path: 'Contact' }">contact</router-link></span>
         </div>
     </div>
 </template>
