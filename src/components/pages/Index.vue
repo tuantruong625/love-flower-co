@@ -1,7 +1,6 @@
 <template>
     <div class="index-container">
         <Navbar></Navbar>
-
     </div>
 </template>
 
